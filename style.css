@@ -128,7 +128,7 @@
 	}
 	.navo ul li{
 		float:left;
-		margin-left:40px;
+		margin-left:30px;
 		animation: light 4s ease-in-out infinite;
 		transition: 0.5s;
 	}
