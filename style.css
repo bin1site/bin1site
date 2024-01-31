@@ -130,7 +130,7 @@
 		float:left;
 		margin-left:40px;
 		animation: light 4s ease-in-out infinite;
-		transition: 0.5s;
+		transition: 0s;
 	}
 	.navo ul li:hover {
 		transform: scale(1.15) rotate(720deg);
